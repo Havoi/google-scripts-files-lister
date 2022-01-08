@@ -1,5 +1,5 @@
 function myFunction123() {
-  var foldername = 'photos';
+  var foldername = 'FOLDER NAME';
   var folderlisting = 'listing of folder ' + foldername;
   var toAdd=[];
 
